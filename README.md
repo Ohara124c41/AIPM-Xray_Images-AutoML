@@ -4,7 +4,7 @@ Classifying x-ray images from a dataset using AutoML. This project is a walkthro
 ### Initialize
 To follow this example, please complete the following steps:
 1. Download the dataset images from:
-https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/downloads/chest-xray-pneumonia.zip/2\ 
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/downloads/chest-xray-pneumonia.zip/2 
 NB: The dataset is not perfect and has some duplicates. Please prune these during your training process.
 2. Sign in (or create) an account for AutoML
 https://cloud.google.com/automl/
